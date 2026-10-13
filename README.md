@@ -48,10 +48,9 @@
 ###
 <h1 data-importer="text" align="center"></h1>
 
-<div>
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasFigueiredo6&show_icons=true&theme=radical&hide_border=true"  />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFigueiredo6&layout=compact&theme=dark&langs_count=8" alt="Lucas Figueiredo Top Languages" />
+<div align = "center">
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasFigueiredo6&show_icons=true&theme=dark&hide_border=true"  />
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=LucasFigueiredo6&layout=compact&theme=dark&hide_border=true"  />
 </div>
 
 
