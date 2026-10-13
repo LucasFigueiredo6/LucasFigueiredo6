@@ -50,7 +50,7 @@
 
 <div>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LucasFigueiredo6&show_icons=true&theme=dark&include_all_commits=true" alt="Lucas Figueiredo GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucasFigueiredo6&show_icons=true&theme=radical&hide_border=true" height="180" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasFigueiredo6&layout=compact&theme=dark&langs_count=8" alt="Lucas Figueiredo Top Languages" />
 </div>
 
