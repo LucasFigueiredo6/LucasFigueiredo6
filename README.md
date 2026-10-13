@@ -53,13 +53,18 @@
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=LucasFigueiredo6&layout=compact&theme=dark&hide_border=true"  />
 </div>
 
+###
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
 
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasFigueiredo6/LucasFigueiredo6/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasFigueiredo6/LucasFigueiredo6/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasFigueiredo6/LucasFigueiredo6/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF0000"  />
+</div>
+
+###
 
 
